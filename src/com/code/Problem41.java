@@ -10,7 +10,7 @@ public class Problem41 {
     public static void main(String[] args) {
         int[] array = {1,2,4,7,11,15};
         int target = 15;
-        int[] result = findNumbersWithSum(null,target);
+        int[] result = findNumbersWithSum(array,target);
         System.out.println(Arrays.toString(result));
     }
     public static int[] findNumbersWithSum(int[] array,int sum) {
