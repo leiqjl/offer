@@ -1,6 +1,16 @@
 # offer
 剑指offer java实现
 
+[3.二维数组查找](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem3.java)
+
+[4.替换空格](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem4.java)
+
+[5.从尾到头打印链表](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem5.java)
+
+[6.重建二叉树](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem6.java)
+
+[7.用两个栈实现一个队列](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem7.java)
+
 [31.最大子数组和](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem31.java)
 
 [32.1到n中1出现的次数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem32.java)
