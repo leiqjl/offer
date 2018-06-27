@@ -11,6 +11,8 @@
 
 [7.用两个栈实现一个队列](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem7.java)
 
+[8.旋转数组的最小数字](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem8.java)
+
 [31.最大子数组和](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem31.java)
 
 [32.1到n中1出现的次数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem32.java)
