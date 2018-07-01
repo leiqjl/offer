@@ -11,6 +11,16 @@
 
 [7.用两个栈实现一个队列](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem7.java)
 
+[8.旋转数组的最小数字](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem8.java)
+
+[9.斐波那契数列](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem9.java)
+
+[9_2.跳台阶](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem9_2.java)
+
+[9_3.跳台阶2](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem9_3.java)
+
+[10.二进制表示中1的个数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem10.java)
+
 [31.最大子数组和](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem31.java)
 
 [32.1到n中1出现的次数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem32.java)
@@ -33,8 +43,8 @@
 
 [41.寻找和为s的两个数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem41.java)
 
-[41-2.寻找和为s的连续序列](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem41_2.java)
+[41_2.寻找和为s的连续序列](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem41_2.java)
 
 [42.翻转字符串](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem42.java)
 
-[42-2.左旋转字符串](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem42_2.java)
+[42_2.左旋转字符串](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem42_2.java)
