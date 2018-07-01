@@ -1,8 +1,5 @@
 package com.code;
 
-import java.util.Arrays;
-import java.util.Stack;
-
 /**
  * 输入二叉树的前序遍历和中序遍历的结果，重建出该二叉树。
  * 假设前序遍历和中序遍历结果中都不包含重复的数字。
