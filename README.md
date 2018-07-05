@@ -21,6 +21,8 @@
 
 [10.二进制表示中1的个数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem10.java)
 
+[11.数值的整数次方](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem11.java)
+
 [31.最大子数组和](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem31.java)
 
 [32.1到n中1出现的次数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem32.java)
