@@ -23,6 +23,10 @@
 
 [11.数值的整数次方](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem11.java)
 
+[12.打印1到最大的n位数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem12.java)
+
+[13.在O(1)时间删除链表结点](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem13.java)
+
 [31.最大子数组和](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem31.java)
 
 [32.1到n中1出现的次数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem32.java)
