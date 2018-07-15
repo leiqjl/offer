@@ -27,6 +27,10 @@
 
 [13.在O(1)时间删除链表结点](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem13.java)
 
+[14.调整数组顺序使奇数位于偶数前面](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem14.java)
+
+[15.链表中倒数第k个结点](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem15.java)
+
 [31.最大子数组和](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem31.java)
 
 [32.1到n中1出现的次数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem32.java)
