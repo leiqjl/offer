@@ -35,6 +35,8 @@
 
 [17.合并两个排序的链表](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem17.java)
 
+[18.树的子结构](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem18.java)
+
 [31.最大子数组和](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem31.java)
 
 [32.1到n中1出现的次数](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem32.java)
