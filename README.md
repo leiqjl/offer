@@ -31,7 +31,9 @@
 
 [15.链表中倒数第k个结点](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem15.java)
 
-[16.合并两个排序的链表](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem16.java)
+[16.反转链表](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem16.java)
+
+[17.合并两个排序的链表](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem17.java)
 
 [31.最大子数组和](https://github.com/leiqjl/offer/blob/master/src/com/code/Problem31.java)
 
